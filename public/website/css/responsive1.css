@@ -1,0 +1,314 @@
+@media(max-width:1199px) {
+.tabs .img-section .social-icon {
+    margin: 29px 0px 32px 5px;
+}
+.social-icon a.new-result {
+    font-size: 12px;
+    margin-right: 1px;
+}
+   
+}
+@media(max-width:991px) {
+.navbar-toggle {
+    border: 1px solid #f3cd5d;
+}
+.navbar-toggle .icon-bar{
+background: #f3cd5d;
+}
+ul.navbar-nav li a {
+    padding-right: 12px;
+}
+}
+@media(max-width:767px) {
+    .form-reflex.book-nows .form-group .user-wraps label
+    {
+    display: block;
+    text-align: left !important;
+    width: 100%;
+    }
+    .tab-content {
+    width: 100%;
+}
+a.btn.btn-default.register.date
+{
+    padding: 8px 0;
+    width: 100%;
+}
+
+.new-news-letter
+{
+    float: left;
+    width: 100%;
+}
+.new-line h3
+{
+    line-height: 28px;
+    font-size: 20px;
+}
+    .tab .col-md-6.col-md-offset-3 {
+    padding: 0;
+}
+    .form-reflex .form-group .user-wrap
+    {
+        padding: 10px 9px;
+    }
+    .form-reflex .form-group .user-wrap img
+    {
+        margin-right: 0px;
+    }
+    .block-user a.btn_primary
+    {
+        min-width: 100px;
+    }
+    .heading-top {
+    padding: 47px 0 38px;
+}
+.padding-left-0 {
+    padding-left: 15px;
+}
+a.btn_primary
+{
+    font-size: 18px;
+}
+    .heading-top h1
+    {
+        font-size: 28px;
+    }
+    .navbar-toggle .icon-bar
+    {
+        background-color: #000;
+        
+    }
+
+    .new-footer-contains.text-center ul li
+    {
+        margin-top: 8px;
+    }
+
+    .new-connect p
+    {
+        margin-top: 0;
+    }
+    .new-line .form-control {
+    padding-left: 13px;
+    font-size: 15px;
+    }
+    .new-light ul 
+    {
+        text-align: center;
+    }
+    .new-line button.new-btn
+    {
+    height: 53px;
+    width: 122px;
+    font-size: 14px;
+    }
+    .navbar-brand
+   {
+        top: 15px;
+        position: relative;
+    }
+    .navbar-header .navbar-toggle
+    {
+    background-color: #f5cf5f;
+    margin-top: 62px;
+    }
+.search-box .form-group {
+    width: 95%;
+}
+.modal-dialog {
+    width: 500px;
+        margin: 0 auto;
+
+}
+button.btn.btn-default.register.yes {
+    padding: 14px 50px;
+}
+.new-format-again-website-view.frame {
+    margin-top: 52px;
+}
+.form-reflex.form-info-settings.save-card {
+    margin: 58px 0 7px 0px;
+    display: inline-block;
+    width: 100%;
+}
+.new-homes.new {
+    width: initial;
+}
+.social-icon a.new-result {
+    font-size: 15px;
+
+
+}
+.tab-content.tickets {
+    background: transparent;
+    margin: 0;
+}
+button.close img {
+    background: #fff;
+    border-radius: 4px;
+}
+.form-reflex.create-moive form label.check.home{
+	    margin-top: 9px;
+
+}
+.col-md-12.margin-top-30 {
+    display: inline-block;
+    position: relative;
+    z-index: 99999;
+}
+#interest label.check:after {
+    bottom: 41px;
+
+}
+.tab-links li {
+    margin: 0px 7px 8px 0px;
+}
+}
+
+@media(max-width:480px) {
+    
+.search-box .form-group {
+    width: 100%;
+}
+.form-control.motive {
+    width: 186px;
+        margin-bottom: 18px;
+
+}
+.tab-content {
+    padding: 61px 36px;
+
+}
+.img-section .img-factor figure img {
+    border-radius: 12px 12px 0px 0px;
+    height: 238px;
+}
+.tab-links a{
+        margin-bottom: 5px;
+    }
+
+
+.tab-links li {
+    margin: 0px 5px 0 0px;
+    float: none;
+}
+.tab-content {
+    padding: 0;
+}
+.new-file {
+    height: auto;
+    width: auto;
+    }
+    .form-info-settings {
+    padding: 0;
+}
+a.btn.btn-default.register.date {
+    margin-bottom: 13px;
+    }
+    .form-reflex.form-info-settings.myprofile {
+    padding: 0;
+}
+.new-mobile-section figure img {
+    max-width: 86%;
+}
+.search-box input.form-control {
+    background: #fff;
+    font-family: 'CaviarDreams-Bold';
+    padding-right: 50px;
+}
+.button-circle {
+    position: relative;
+    }
+    .button-circles {
+    position: relative;
+    margin-top: 52px;
+    right: -13px;
+
+}
+.img-section.jack .social-icon a.button-new {
+   
+    float: left;
+}
+.form-info-settings.lvert {
+    padding: 0 15px;
+}
+.modal-dialog {
+    width: 293px;
+        margin: 0 auto;
+
+}
+.new-button {
+    padding: 20px 47px;
+
+
+
+}
+.button-circle.jift .motive {
+    width: 100%;
+    margin-top: 3PX;
+}
+.i-frame .new-homes {
+    font-size: 19px;
+        padding: 7px 22px;
+
+}
+.iframe {
+    width: auto;
+}
+.new-homes {
+    padding: 15px 42px;
+
+}
+.col-sm-12.no-padding {
+    display: inline-block;
+    position: relative;
+    z-index: 9999;
+}
+.lvert .profile-pic img {
+    margin-top: 16px;
+}
+#interest label.new:after{
+    bottom: 44px;
+
+    }
+    #interest1 .modal-dialog {
+    width: 288px;
+}
+#interest1 label.new:after{
+            bottom: 48px;
+
+    }
+    button.btn.btn-default.register.yes {
+    padding: 6px 42px;
+}
+
+
+
+.tab-content {
+    position: relative;
+    z-index: 999;
+}
+.form-reflex.create-moive form label {
+    text-transform: capitalize;
+    margin-bottom: 14px;
+}
+ul.tab-links {
+    margin-bottom: 19px;
+}
+.form-reflex .form-group .user-wrap label.book-now-value {
+    float: right;
+}
+.book-now a.btn-small{
+        margin-top: 32px;
+
+}
+.new-profile-content span {
+    font-size: 12px;
+
+}
+.new-rest-again span {
+    font-size: 13px;
+    }
+
+}

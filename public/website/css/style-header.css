@@ -1,0 +1,233 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none !important;
+}
+
+body {
+    overflow-x: hidden;
+     font-family: "GothamBold";
+}
+
+body,
+html {
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+body:before,
+body:after {
+    content: none !important
+}
+
+::i-block-chrome,
+body {
+    -webkit-text-stroke: .1px
+}
+
+img {
+    max-width: 100%;
+    vertical-align: top;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+select::-ms-expand {
+    display: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+span,
+p,
+ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    background: transparent;
+}
+
+label {
+    font-weight: normal;
+}
+
+.no-padding {
+    padding: 0 !important;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+    text-decoration: none;
+}
+
+a,
+input[type="submit"],
+input[type="button"],
+.btn,
+button {
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="url"],
+input[type="tel"],
+input[type="number"],
+textarea,
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+input[type="button"]:focus,
+input[type="text"]:focus,
+select:focus {
+    box-shadow: none;
+    outline: none;
+}
+
+section {
+    clear: both;
+}
+
+audio,
+canvas,
+progress,
+video {
+    vertical-align: middle;
+}
+
+.no-padding {
+    padding: 0 !important;
+}
+
+@font-face {
+    font-family: "GothamBold";
+    src: url("../fonts/GothamBold.eot") format("eot"),url("../fonts/GothamBold.ttf") format("truetype"), url("../fonts/GothamBold.svg#GothamBold'") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+  font-family: 'GothamBold';
+  src: url('GothamBold.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/*** header css start ***/
+
+
+.navbar {
+    position: relative;
+    min-height: 0;
+    margin-bottom: 0;
+    border: 0;
+}
+.navbar-brand img {
+    margin: 0 auto;
+    display: block;
+}
+.navbar-brand{
+    
+}
+.nav > li > a:focus,
+.nav > li > a:hover {
+    text-decoration: none;
+    background-color: transparent;
+}
+
+
+.new-parrellex {
+    background: url(../images/parrelex.png) no-repeat center top fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-size: 16px;
+
+  /* Full height */
+    padding: 44px 0;
+}
+ul.nav.navbar-nav.navbar-right {
+    margin-top: 25px;
+}
+.new-body-style {
+      background: #000!important;
+    padding: 17px 17px;
+    box-shadow: 0 0 12px #ccc;
+    border-radius: 15px;
+}
+
+ul.nav.navbar-nav.navbar-right li a {
+    font-size: 16px;
+    color: #fff;
+    vertical-align: text-bottom;
+}
+.navbar-right li a span {
+    margin-top: 8px;
+    display: inline-block;
+    margin-left: 15px;
+}
+.form-content {
+    background: #fff;
+        padding: 31px 0;
+}
+.new-small-logo {
+  
+    background: #000;
+    text-align: center;
+    margin-top: 12px;
+    display: block;
+}
+.form-long_content {
+      max-width: 570px;
+    margin: 0 auto;
+    box-shadow: 0 0 12px #c5c0c0;
+    background: #f9f9f9;
+}
+.profile-pic h3 {
+   display: inline-block;
+    vertical-align: middle;
+    font-size: 18px;
+    color: #000;
+    text-transform: uppercase;
+}
+
+.profile-pic img {
+    display: inline-block;
+    vertical-align: middle;
+}
+.images-last-banner {
+    background: url(../images/last-banner.png) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-size: 16px;
+    padding: 99px 0;
+}

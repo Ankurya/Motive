@@ -1,0 +1,308 @@
+.modal-body {
+    height: 581px;
+    overflow: auto;
+}
+
+
+.form-reflex.create-moive .form-group {
+    width: 100%;
+    margin-bottom: 18px;
+    float: unset;
+}
+.heading-top {
+    padding: 77px 0 0;
+}
+.modal-backdrop {
+    position: unset;
+}
+.create-moive form video.create {
+    margin-bottom: 18px;
+}
+.create-bg {
+    margin-top: 14px;
+}
+.user-wrap.images-new img{
+    border-radius: 18px;
+}
+.field input[type="file"] {
+    opacity: 0;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    display: block;
+    left: 0;
+    cursor: pointer;
+    z-index: 9;
+}
+.upload-btn label {
+    position: absolute;
+    right: 0;
+    padding: 0px 15px;
+    top: 12px;
+    right: 0;
+
+
+}
+.upload-btn.form-control {
+    position: relative;
+}
+.upload-btn span {
+    padding: 0px 0;
+    display: inline-block;
+    vertical-align: middle;
+    float: left;
+    width: auto;
+    background: transparent;
+}
+
+.form-reflex.create-moive form label
+{
+    text-transform: uppercase;
+}
+.form-reflex.create-moive form label.check.home.home {
+    margin-top: 11px;
+}
+.form-reflex.create-moive .right.home{
+    top: 0px;
+}
+.col-sm-8.small {
+    padding: 0;
+}
+
+
+span.add-on img {
+    float: right;
+}
+.dropdown-menu {
+    min-width: 430px;
+}
+input#imgInp,input#imgInp1 {
+    opacity: 0;
+    position: relative;
+    top: -44px;
+}
+#interest label.check:after{
+    bottom: 57px;
+    height: 15px;
+
+
+}
+.form-reflex.form-info-settings.adit {
+    overflow: auto;
+    height: 382px;
+}
+#interest1 label.check:after{
+    bottom: 57px;
+    height: 15px;
+}
+
+
+.upload-btn.form-control {
+    position: relative;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 100%;
+    text-overflow: ellipsis;
+    padding-right: 35px;
+}
+span#msg12 {
+    margin-top: -3px;
+    width: 100%;
+    display: block;
+    padding-right: 10px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.form-reflex.create-moive form label.check.home
+{
+    margin-left: 70px;
+}
+input#image_check {
+    right: 0px;
+}
+.user-wrap.images-new.img-icon img {
+    width: 40px;
+    height: 40px;
+}
+.form-reflex.create-moive .form-group img{
+    cursor: pointer;
+}
+.upload-btn.form-control{
+    cursor: pointer;
+}
+span#msg12{
+    z-index: 1;
+    position: absolute;
+
+
+}
+select#upload_type1 {
+    width: 249px;
+}
+
+select#upload_type {
+    width: 249px;
+}
+.new-check-get {
+    display: inline-block;
+    position: relative;
+    padding-left: 33px;
+}
+.field.new{
+    display: inline-block;
+}
+.form-group.images-first img {
+    height: 178px;
+    width: 100%;
+}
+span.add-on {
+    position: absolute!important;
+      right: -8px;
+    top: 12px;
+}
+.input-group-addon {
+    padding: 6px 38px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    color: #555;
+    text-align: center;
+    background-color: #2a2a2a;
+}
+.error {
+    color:red;
+    font-size:16px;
+    text-transform: unset!important;
+    margin-top: 5px !important;
+}
+div#datetimepicker1 input.form-control,div#datetimepicker2 input.form-control {
+    cursor: pointer;
+        margin-top: 0!important;
+
+}
+.input-group-addon {
+    padding: 0px 36px;
+
+    z-index: 9999;
+    font-size: 14px;
+    background: transparent;
+    font-weight: 400;
+    border: 0;
+    line-height: 1;
+    color: #555;
+    text-align: center;
+    background-color: #2a2a2a;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+div#datetimepicker1,div#datetimepicker2 {
+    width: 416px;
+}
+.form-reflex.create-moive form label {
+    text-transform: uppercase;
+}
+.form-control.selectbox.error{
+    color:#d1d0d0 !important;
+}
+
+input#imgInp, input#imgInp1 {
+    cursor: pointer;
+}
+
+.input-group.date .input-group-addon {
+    cursor: pointer;
+    z-index: 9;
+    position: relative;
+    border: 1px solid #fff;
+    border-left: 0;
+}
+.btn.btn-default.register.yes.skip.jack-new{
+    padding: 14px 52px;
+    margin: 0 auto;
+    display: block;
+    font-size: 26px;
+    border-radius: 0;
+    background-image: linear-gradient(#ffdc73, #e1b73a);
+    color: #000;
+    border: 0;
+}
+.new-good p {
+    font-size: 20px;
+    color: #fff;
+}
+
+.left-good p {
+    font-size: 20px;
+    color: #fff;
+}
+.new-find label {
+    margin-bottom: 0px;
+}
+.new-find {
+    display: inline-block;
+}
+
+.new-file .new-kite {
+    display: inline-block;
+    float: right;
+    margin: 2px 0;
+
+}
+.new-kite.quantity p {
+    color: #fff;
+    text-align: right;
+
+}
+label.new-time {
+    margin-bottom: 0px;
+}
+.new-jacks-quantity p {
+    display: inline-block;
+}
+.new-jacks-quantity {
+    margin-top: 58px;
+}
+
+#new-file .new-file:first-child {
+    margin-top: 56px;
+}
+#new-file .new-file {
+    height: 145px;
+    max-width: 485px;
+}
+.form-reflex.form-info-settings.adit.add-quantity {
+    height: 502px;
+}
+.form-reflex.form-info-settings.adit.add-quantity .form-group input + label {
+    color: #a94442;
+    font-size: 14px;
+    text-transform: capitalize;}
+   .motive-page-one label#ticket_description-error{
+        color: #a94442;
+        font-size: 14px;
+        text-transform: capitalize;
+    }
+    button.close {
+    display: block;
+    opacity: 1;
+    
+}
+input#imgInp3 {
+    display: none;
+}
+label#end_date-error {
+    position: absolute;
+    left: 0;
+    z-index: 99;
+    top: 55px;
+}
+div#datetimepicker2 {
+    position: relative;
+}
+
+table tbody tr td span {
+    color: #2a2a2a!important;
+}

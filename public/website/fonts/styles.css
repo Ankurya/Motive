@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family: 'GothamBold';
+  src: url('GothamBold.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GothamBold';
+  src:  url() format('woff'), url('GothamBold.ttf')  format('truetype'), url('GothamBold.svg#GothamBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
